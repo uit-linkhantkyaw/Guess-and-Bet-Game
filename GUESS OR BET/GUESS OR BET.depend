@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1676765404 source:c:\users\admin\desktop\c++ guess or bet\bet.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
+1676823285 source:c:\users\admin\desktop\c++ guess or bet\guesscountry.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<conio.h>
+
+1676830540 source:d:\c++\guess or bet\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<stdlib.h>
+
+1676834388 source:e:\guess or bet\guess or bet.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+
+1676765404 source:e:\guess or bet\bet.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
